@@ -144,7 +144,7 @@ Email: laurenmoorejm@gmail.com
 8. **[ESLint](https://eslint.org/)** - A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
     
 ## Video Demonstration
-[Link to demonstration video on Google Drive]()
+[Link to demonstration video on Google Drive](https://drive.google.com/file/d/1iEeriVHph9kp3sdnY0_65ZaT9RnHAd68/view?usp=sharing)
 
 ---
 
