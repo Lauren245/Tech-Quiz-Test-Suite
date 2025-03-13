@@ -15,4 +15,4 @@ describe('Gets Questions', () => {
       expect(response.body).to.have.length(10);
     });
   });
-})
+});
